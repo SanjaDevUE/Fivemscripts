@@ -7,7 +7,7 @@ cfg.textures = {
             ['txtName'] = 'Texture'
         },
         ['new'] = {
-            ['link'] = '.gif link',
+            ['link'] = '.png.gif... link',
             ['width'] = 512,
             ['height'] = 512
         }
